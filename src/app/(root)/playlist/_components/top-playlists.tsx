@@ -1,16 +1,16 @@
 "use client";
 import ListCard from "@/components/blocks/horizontal-list/list-card";
-import { getFeaturedPlaylists } from "@/lib/music-api-instance";
+// import { getFeaturedPlaylists } from "@/lib/music-api-instance";
 import { FeaturedPlaylists, Lang } from "@/types";
-import { useInfiniteQuery } from "@tanstack/react-query";
-import { useCallback } from "react";
-import { useIntersectionObserver } from "usehooks-ts";
+// import { useInfiniteQuery } from "@tanstack/react-query";
+// import { useCallback } from "react";
+// import { useIntersectionObserver } from "usehooks-ts";
 
 type TopPlaylistsProps = {
   initialPlaylists: FeaturedPlaylists;
   lang?: Lang;
 };
-const TopPlaylists = ({ initialPlaylists, lang }: TopPlaylistsProps) => {
+const TopPlaylists = ({ initialPlaylists }: TopPlaylistsProps) => {
   // const { data, fetchNextPage, isFetchingNextPage, hasNextPage } =
   //   useInfiniteQuery({
   //     queryKey: ["top-playlists"],

@@ -1,5 +1,5 @@
 import ListCard from "@/components/blocks/horizontal-list/list-card";
-import { getCharts } from "@/lib/music-api-instance";
+// import { getCharts } from "@/lib/music-api-instance";
 import topCharts from "../../../static/topChart.json";
 
 export default async function TopChartsPage() {

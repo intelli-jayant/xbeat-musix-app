@@ -1,10 +1,10 @@
 "use client";
-import React, { useCallback } from "react";
-import { useIntersectionObserver } from "usehooks-ts";
+import React from "react";
+// import { useIntersectionObserver } from "usehooks-ts";
 import ListCard from "@/components/blocks/horizontal-list/list-card";
-import { getTopAlbums } from "@/lib/music-api-instance";
+// import { getTopAlbums } from "@/lib/music-api-instance";
 import type { Lang, TopAlbum } from "@/types";
-import { useInfiniteQuery } from "@tanstack/react-query";
+// import { useInfiniteQuery } from "@tanstack/react-query";
 type TopAlbumsProps = {
   initialAlbums: TopAlbum;
   lang?: Lang;

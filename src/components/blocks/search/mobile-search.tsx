@@ -3,25 +3,25 @@
 import React, { useState } from "react";
 import { Input } from "@/components/ui/input";
 import { useIsTyping } from "@/hooks/atom-hooks";
-import { parseAsString, useQueryState } from "nuqs";
-import { searchAll } from "@/lib/music-api-instance";
-import { useQuery } from "@tanstack/react-query";
-import { Loader2, X } from "lucide-react";
-import { AllSearchResults } from "./all-search-results";
-import useDebounce from "@/hooks/use-debounce";
-import { Button } from "@/components/ui/button";
-import { Skeleton } from "@/components/ui/skeleton";
+// import { parseAsString, useQueryState } from "nuqs";
+// import { searchAll } from "@/lib/music-api-instance";
+// import { useQuery } from "@tanstack/react-query";
+// import { Loader2, X } from "lucide-react";
+// import { AllSearchResults } from "./all-search-results";
+// import useDebounce from "@/hooks/use-debounce";
+// import { Button } from "@/components/ui/button";
+// import { Skeleton } from "@/components/ui/skeleton";
 
 const MobileSearch = () => {
-  const [query, setQuery] = useQueryState("q", parseAsString.withDefault(""));
+  // const [query, setQuery] = useQueryState("q", parseAsString.withDefault(""));
   const [query2, setQuery2] = useState("");
-  const q = useDebounce(query, 500);
+  // const q = useDebounce(query, 500);
   const setIsTyping = useIsTyping()[1];
-  const { data: allSearchResults, isLoading } = useQuery({
-    queryKey: ["search", q],
-    queryFn: ({ queryKey }) => searchAll(queryKey[1]),
-    enabled: !!q.trim(),
-  });
+  // const { data: allSearchResults, isLoading } = useQuery({
+  //   queryKey: ["search", q],
+  //   queryFn: ({ queryKey }) => searchAll(queryKey[1]),
+  //   enabled: !!q.trim(),
+  // });
   return (
     <>
       <div className="relative">
@@ -36,7 +36,7 @@ const MobileSearch = () => {
           autoComplete="on"
           name="search"
         />
-        {isLoading && (
+        {/* {isLoading && (
           <div className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground">
             <Loader2 className="animate-spin size-5" />
           </div>
@@ -47,10 +47,10 @@ const MobileSearch = () => {
               <X className="size-5" />
             </Button>
           </div>
-        )}
+        )} */}
       </div>
 
-      {allSearchResults && (
+      {/* {allSearchResults && (
         <AllSearchResults data={allSearchResults} query={query} />
       )}
       {isLoading && (
@@ -60,7 +60,7 @@ const MobileSearch = () => {
           <Skeleton className="h-24 w-full" />
           <Skeleton className="h-24 w-full" />
         </div>
-      )}
+      )} */}
     </>
   );
 };

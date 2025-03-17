@@ -1,4 +1,4 @@
-import { getFeaturedPlaylists } from "@/lib/music-api-instance";
+// import { getFeaturedPlaylists } from "@/lib/music-api-instance";
 import { Lang } from "@/types";
 import TopPlaylists from "./_components/top-playlists";
 import featuredPlaylist from "../../../static/featuredPlaylist.json"
@@ -8,8 +8,8 @@ type TopPlaylistsPageProps = {
 };
 
 export default async function TopPlaylistsPage(props: TopPlaylistsPageProps) {
-  const searchParams = await props.searchParams;
-  const { lang, page = 1 } = searchParams;
+  // const searchParams = await props.searchParams;
+  // const { lang, page = 1 } = searchParams;
   // const featruedPlaylists = await getFeaturedPlaylists(page, 50, lang);
   const featruedPlaylists = featuredPlaylist.data.data;
   return (

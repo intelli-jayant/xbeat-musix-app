@@ -1,4 +1,4 @@
-import { getTopAlbums } from "@/lib/music-api-instance";
+// import { getTopAlbums } from "@/lib/music-api-instance";
 import { Lang } from "@/types";
 import TopAlbums from "./_components/top-albums";
 import topAlbums from "../../../static/topAlbum.json";
@@ -8,7 +8,8 @@ type TopAlbumsPageProps = {
 };
 export default async function TopAlbumsPage(props: TopAlbumsPageProps) {
   const searchParams = await props.searchParams;
-  const { lang, page = 1 } = searchParams;
+  // const { lang, page = 1 } = searchParams;
+  const { lang } = searchParams;
   // const initialTopAlbumsData = await getTopAlbums(page, 50, lang);
   const initialTopAlbumsData = topAlbums.data.data;
   console.log("init album data: ", initialTopAlbumsData);

@@ -1,6 +1,6 @@
 import AudioDetailsSidebar from "@/components/blocks/audio-details-sidebar";
 import Header from "@/components/blocks/header";
-import Player from "@/components/blocks/player";
+// import Player from "@/components/blocks/player";
 import Sidebar from "@/components/blocks/sidebar";
 import MobileNavigation from "@/components/mobile-nav";
 import { getUserPlaylists } from "@/db/queries";
