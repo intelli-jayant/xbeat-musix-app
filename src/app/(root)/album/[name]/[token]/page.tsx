@@ -8,6 +8,7 @@ import SongList from "@/components/blocks/song-list/song-list";
 //   getTrending,
 // } from "@/lib/music-api-instance";
 import albumsData from "@/static/albums.json";
+import { Album } from "@/types";
 // type AlbumDetailsPageProps = {
 //   params: Promise<{ name: string; token: string }>;
 // };
@@ -33,7 +34,6 @@ export default async function AlbumDetailsPage() {
   // const { token } = params;
   const { album, recommendations, trending } = albumsData;
   console.log(albumsData);
-
   return (
     <section className="mb-4 space-y-4">
       <DetailsHeader item={album} />
