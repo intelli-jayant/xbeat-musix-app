@@ -1,7 +1,7 @@
 // import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import ImageWithFallback from "@/components/image-with-fallback";
-import { cn, getHref, trimStringAddEllipsis } from "@/lib/utils";
+import { cn, trimStringAddEllipsis } from "@/lib/utils";
 import { Quality, Type } from "@/types";
 // import { Play } from "lucide-react";
 // import Link from "next/link";
