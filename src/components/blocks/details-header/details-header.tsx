@@ -6,22 +6,22 @@ import { cn, formatDuration, getHref, getImageSource } from "@/lib/utils";
 import {
   Album,
   Artist,
-  // Episode,
-  // Label,
-  // Mix,
+  Episode,
+  Label,
+  Mix,
   Playlist,
-  // ShowDetails,
-  // Song,
+  ShowDetails,
+  Song,
 } from "@/types";
 import { Play } from "lucide-react";
 import Link from "next/link";
 import LikeButton from "../like-button";
 import DominantColorBackground from "@/components/dominant-color-background";
 
-// type DetailsHeaderProps = {
-//   item: Album | Song | Playlist | Artist | Episode | ShowDetails | Label | Mix;
-// };
-const DetailsHeader = async ({ item }: any) => {
+type DetailsHeaderProps = {
+  item: Album | Song | Playlist | Artist | Episode | ShowDetails | Label | Mix;
+};
+const DetailsHeader = async ({ item }: DetailsHeaderProps) => {
   const { type, image, name, id: token } = item;
   const user = await getUser();
   return (
