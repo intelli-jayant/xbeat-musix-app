@@ -1,0 +1,636 @@
+{
+    "status": "Success",
+    "message": "✅ Top Artists fetched successfully",
+    "data": [
+      {
+        "id": "459320",
+        "name": "Arijit Singh",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Arijit_Singh_004_20241118063717_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Arijit_Singh_004_20241118063717_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Arijit_Singh_004_20241118063717_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/arijit-singh-songs/LlRWpHzy3Hk_",
+        "is_followed": false,
+        "follower_count": 73076623
+      },
+      {
+        "id": "568565",
+        "name": "Justin Bieber",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Justin_Bieber_005_20201127112218_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Justin_Bieber_005_20201127112218_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Justin_Bieber_005_20201127112218_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/justin-bieber-songs/deJJWFd1ItE_",
+        "is_followed": false,
+        "follower_count": 7230060
+      },
+      {
+        "id": "459633",
+        "name": "Atif Aslam",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Atif_Aslam_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Atif_Aslam_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Atif_Aslam_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/atif-aslam-songs/MXn8bhT308U_",
+        "is_followed": false,
+        "follower_count": 9234366
+      },
+      {
+        "id": "468245",
+        "name": "Diljit Dosanjh",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Diljit_Dosanjh_005_20231025073054_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Diljit_Dosanjh_005_20231025073054_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Diljit_Dosanjh_005_20231025073054_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/diljit-dosanjh-songs/oIVHdWIO5F8_",
+        "is_followed": false,
+        "follower_count": 5360960
+      },
+      {
+        "id": "485956",
+        "name": "Yo Yo Honey Singh",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Yo_Yo_Honey_Singh_002_20221216102650_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Yo_Yo_Honey_Singh_002_20221216102650_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Yo_Yo_Honey_Singh_002_20221216102650_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/yo-yo-honey-singh-songs/06QxyAvVpB4_",
+        "is_followed": false,
+        "follower_count": 7620273
+      },
+      {
+        "id": "456863",
+        "name": "Badshah",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Badshah_006_20241118064015_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Badshah_006_20241118064015_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Badshah_006_20241118064015_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/badshah-songs/d4OwAaEcnD0_",
+        "is_followed": false,
+        "follower_count": 9854742
+      },
+      {
+        "id": "510237",
+        "name": "Nucleya",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Nucleya_002_20241118064538_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Nucleya_002_20241118064538_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Nucleya_002_20241118064538_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/nucleya-songs/nZkjTeNYKxY_",
+        "is_followed": false,
+        "follower_count": 416882
+      },
+      {
+        "id": "455125",
+        "name": "Sonu Nigam",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Sonu_Nigam_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Sonu_Nigam_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Sonu_Nigam_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/sonu-nigam-songs/,kuQK6K6u0I_",
+        "is_followed": false,
+        "follower_count": 15130954
+      },
+      {
+        "id": "455109",
+        "name": "Lata Mangeshkar",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Lata_Mangeshkar_004_20230623105323_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Lata_Mangeshkar_004_20230623105323_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Lata_Mangeshkar_004_20230623105323_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/lata-mangeshkar-songs/FCtl69DObYg_",
+        "is_followed": false,
+        "follower_count": 13514640
+      },
+      {
+        "id": "578407",
+        "name": "Ed Sheeran",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Ed_Sheeran_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Ed_Sheeran_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Ed_Sheeran_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/ed-sheeran-songs/bWIDsVrU6DE_",
+        "is_followed": false,
+        "follower_count": 4798406
+      },
+      {
+        "id": "455130",
+        "name": "Shreya Ghoshal",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Shreya_Ghoshal_007_20241101074144_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Shreya_Ghoshal_007_20241101074144_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Shreya_Ghoshal_007_20241101074144_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/shreya-ghoshal-songs/lIHlwHaxTZ0_",
+        "is_followed": false,
+        "follower_count": 27019630
+      },
+      {
+        "id": "674886",
+        "name": "Sanam Puri",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Sanam_Puri_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Sanam_Puri_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Sanam_Puri_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/sanam-puri-songs/SkNEv3qRhDE_",
+        "is_followed": false,
+        "follower_count": 5160849
+      },
+      {
+        "id": "458918",
+        "name": "Raftaar",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Raftaar_009_20230223100912_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Raftaar_009_20230223100912_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Raftaar_009_20230223100912_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/raftaar-songs/ZYd,kDiZhJg_",
+        "is_followed": false,
+        "follower_count": 2550139
+      },
+      {
+        "id": "455132",
+        "name": "Himesh Reshammiya",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Himesh_Reshammiya_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Himesh_Reshammiya_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Himesh_Reshammiya_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/himesh-reshammiya-songs/N,m6H0-rqiY_",
+        "is_followed": false,
+        "follower_count": 11795752
+      },
+      {
+        "id": "464656",
+        "name": "Armaan Malik",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Armaan_Malik_005_20240819091627_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Armaan_Malik_005_20240819091627_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Armaan_Malik_005_20240819091627_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/armaan-malik-songs/1iZ7Gi0bi1Y_",
+        "is_followed": false,
+        "follower_count": 10213713
+      },
+      {
+        "id": "461361",
+        "name": "Shah Rukh Khan",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Shah_Rukh_Khan_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Shah_Rukh_Khan_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Shah_Rukh_Khan_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/shah-rukh-khan-songs/tkXMVGTn-A0_",
+        "is_followed": false,
+        "follower_count": 799936
+      },
+      {
+        "id": "457931",
+        "name": "Deepika Padukone",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Deepika_Padukone_002_20220131100114_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Deepika_Padukone_002_20220131100114_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Deepika_Padukone_002_20220131100114_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/deepika-padukone-songs/36LfdYhYGvc_",
+        "is_followed": false,
+        "follower_count": 581396
+      },
+      {
+        "id": "459696",
+        "name": "Salman Khan",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Salman_Khan_002_20200519100153_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Salman_Khan_002_20200519100153_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Salman_Khan_002_20200519100153_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/salman-khan-songs/uuAKJcbNOKg_",
+        "is_followed": false,
+        "follower_count": 845333
+      },
+      {
+        "id": "511656",
+        "name": "Varun Dhawan",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Varun_Dhawan_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Varun_Dhawan_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Varun_Dhawan_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/varun-dhawan-songs/nPLp3EdUdaA_",
+        "is_followed": false,
+        "follower_count": 547213
+      },
+      {
+        "id": "511658",
+        "name": "Alia Bhatt",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Alia_Bhatt_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Alia_Bhatt_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Alia_Bhatt_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/alia-bhatt-songs/,henzzVDXDQ_",
+        "is_followed": false,
+        "follower_count": 622764
+      },
+      {
+        "id": "459632",
+        "name": "Ranbir Kapoor",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Ranbir_Kapoor_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Ranbir_Kapoor_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Ranbir_Kapoor_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/ranbir-kapoor-songs/nqAfNmNB5II_",
+        "is_followed": false,
+        "follower_count": 598475
+      },
+      {
+        "id": "462795",
+        "name": "Anushka Sharma",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Anushka_Sharma_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Anushka_Sharma_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Anushka_Sharma_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/anushka-sharma-songs/kAK8j9P3jU8_",
+        "is_followed": false,
+        "follower_count": 471138
+      },
+      {
+        "id": "455778",
+        "name": "Shahid Kapoor",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Shahid_Kapoor_003_20230608090033_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Shahid_Kapoor_003_20230608090033_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Shahid_Kapoor_003_20230608090033_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/shahid-kapoor-songs/Ai6NXV-,6xI_",
+        "is_followed": false,
+        "follower_count": 524380
+      },
+      {
+        "id": "531934",
+        "name": "Sunny Leone",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Sunny_Leone_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Sunny_Leone_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Sunny_Leone_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/sunny-leone-songs/TDf7I3RaiT0_",
+        "is_followed": false,
+        "follower_count": 439803
+      },
+      {
+        "id": "458135",
+        "name": "Allu Arjun",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Allu_Arjun_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Allu_Arjun_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Allu_Arjun_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/allu-arjun-songs/BGi8EcKdZXk_",
+        "is_followed": false,
+        "follower_count": 727354
+      },
+      {
+        "id": "457969",
+        "name": "Rajinikanth",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Rajinikanth_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Rajinikanth_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Rajinikanth_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/rajinikanth-songs/E-hZmoCP5VU_",
+        "is_followed": false,
+        "follower_count": 1276607
+      },
+      {
+        "id": "456117",
+        "name": "Amitabh Bachchan",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Amitabh_Bachchan_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Amitabh_Bachchan_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Amitabh_Bachchan_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/amitabh-bachchan-songs/X6Dce0iJ7y0_",
+        "is_followed": false,
+        "follower_count": 399247
+      },
+      {
+        "id": "455785",
+        "name": "Priyanka Chopra",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Priyanka_Chopra_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Priyanka_Chopra_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Priyanka_Chopra_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/priyanka-chopra-songs/ZOsjqZwNagU_",
+        "is_followed": false,
+        "follower_count": 458108
+      },
+      {
+        "id": "459631",
+        "name": "Katrina Kaif",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Katrina_Kaif_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Katrina_Kaif_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Katrina_Kaif_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/katrina-kaif-songs/GzitOgpaAM0_",
+        "is_followed": false,
+        "follower_count": 527035
+      },
+      {
+        "id": "456196",
+        "name": "Vijay",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/artists/Vijay_003_20240103075444_50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/artists/Vijay_003_20240103075444_150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/artists/Vijay_003_20240103075444_500x500.jpg"
+          }
+        ],
+        "url": "https://www.jiosaavn.com/artist/vijay-songs/Poyjz0rbAbA_",
+        "is_followed": false,
+        "follower_count": 2142675
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+  "name": "xbeats",
+  "short_name": "xbeats",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/android-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "display": "standalone"
+}

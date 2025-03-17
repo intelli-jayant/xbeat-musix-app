@@ -1,0 +1,182 @@
+{
+    "status": "Success",
+    "message": "✅ Charts fetched successfully",
+    "data": [
+      {
+        "id": "1134595537",
+        "name": "English: India Superhits Top 50",
+        "subtitle": "",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/english-india-superhits-top-50/aXoCADwITrUCObrEMJSxEw__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/English-IndiaSuperhitsTop50_20250307042003.jpg",
+        "first_name": "JioSaavn",
+        "count": 50
+      },
+      {
+        "id": "1134548194",
+        "name": "India Superhits Top 50",
+        "subtitle": "",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/india-superhits-top-50/VuJUPQ9ch77bB,U5Yp5iAA__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/IndiaSuperhitsTop50_20250307054908.jpg",
+        "first_name": "JioSaavn",
+        "count": 50
+      },
+      {
+        "id": "946682072",
+        "name": "Most Searched Songs - Hindi",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/most-searched-songs-hindi/csv-SfcHUmHc1EngHtQQ2g__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/MostSearchedSongsHindi_20250210091325.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "87510850",
+        "name": "Most Streamed Love Songs - English",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/most-streamed-love-songs-english/wHN0Jq26XqA_",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/MostStreamedLoveSongsEnglish_20250303065358.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "1139074020",
+        "name": "Most Streamed Love Songs: Hindi",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/most-streamed-love-songs-hindi/RQKZhDpGh8uAIonqf0gmcg__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/MostStreamedLoveSongs-Hindi_20250310045617.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "945969391",
+        "name": "Most Searched Songs - English",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/most-searched-songs-english/xUOBWZUG6AgGSw2I1RxdhQ__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/MostSearchedSongsEnglish_20250217065907.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "110858205",
+        "name": "Trending Today",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/trending-today/I3kvhipIy73uCJW60TJk1Q__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_TrendingToday_134351_20230826113717.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "1167751270",
+        "name": "Hindi 2000s",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/hindi-2000s/dSYq41esdPJwtkLw7-JlUw__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_Hindi2000s_156632_20240408061838.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "61969868",
+        "name": "International Charts",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/international-charts/DjLfyo0wfbk_",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_InternationalCharts_143799_20220315153513.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "1167751266",
+        "name": "Hindi 1990s",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/hindi-1990s/dSYq41esdPJAI5VmDfZSSg__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_Hindi1990s_136920_20240408061858.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "142311985",
+        "name": "EDM Hot 40",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/edm-hot-40/m9Qkal5S733uCJW60TJk1Q__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_EDMHot40_150598_20220315153607.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "1170578723",
+        "name": "Hindi 1980s",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/hindi-1980s/,H6xc4W4ZikV3Xpvr9dnYw__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_Hindi1980s_174103_20240408061938.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "845149969",
+        "name": "Romantic Top 40 - English",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/romantic-top-40-english/jVmOAc1aK2OO0eMLZZxqsA__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_RomanticTop40-English_158417_20220315153203.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "114107255",
+        "name": "Hindi 1970s",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/hindi-1970s/Pgp0Amd0LZnuCJW60TJk1Q__",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_Hindi1970s_199259_20240408061946.jpg",
+        "first_name": "JioSaavn",
+        "language": "hindi"
+      },
+      {
+        "id": "82711685",
+        "name": "English Retro",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/english-retro/zp3o7OIx1fo_",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_EnglishRetro_174284_20220315154327.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      },
+      {
+        "id": "63116930",
+        "name": "English 2010s",
+        "subtitle": "JioSaavn",
+        "type": "playlist",
+        "url": "https://www.jiosaavn.com/featured/english-2010s/9J4ePDXBp8k_",
+        "explicit": false,
+        "image": "https://c.saavncdn.com/editorial/charts_English2010s_178363_20240408065247.jpg",
+        "first_name": "JioSaavn",
+        "language": "english"
+      }
+    ]
+  }
