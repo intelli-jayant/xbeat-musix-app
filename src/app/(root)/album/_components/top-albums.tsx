@@ -9,7 +9,7 @@ type TopAlbumsProps = {
   initialAlbums: TopAlbum;
   lang?: Lang;
 };
-const TopAlbums = ({ initialAlbums, lang }: TopAlbumsProps) => {
+const TopAlbums = ({ initialAlbums }: TopAlbumsProps) => {
   // const { data, fetchNextPage, isFetchingNextPage, hasNextPage } =
   //   useInfiniteQuery({
   //     queryKey: ["top-albums"],

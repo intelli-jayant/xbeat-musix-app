@@ -8,9 +8,9 @@ import SongList from "@/components/blocks/song-list/song-list";
 //   getTrending,
 // } from "@/lib/music-api-instance";
 import albumsData from "@/static/albums.json";
-type AlbumDetailsPageProps = {
-  params: Promise<{ name: string; token: string }>;
-};
+// type AlbumDetailsPageProps = {
+//   params: Promise<{ name: string; token: string }>;
+// };
 
 // const loadPageData = async (token: string) => {
 //   const album = await getAlbumDetails(token);
@@ -28,7 +28,7 @@ type AlbumDetailsPageProps = {
 //       thisYearAlbums.status === "fulfilled" ? thisYearAlbums.value : [],
 //   };
 // };
-export default async function AlbumDetailsPage(props: AlbumDetailsPageProps) {
+export default async function AlbumDetailsPage() {
   // const params = await props.params;
   // const { token } = params;
   const { album, recommendations, trending } = albumsData;

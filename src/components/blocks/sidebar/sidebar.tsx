@@ -4,22 +4,23 @@ import { ComponentPropsWithoutRef } from "react";
 import Link from "next/link";
 import {
   sidebarNavDiscoverItems,
-  sidebarNavLibraryItems,
+  // sidebarNavLibraryItems,
 } from "./sidebar-nav-items";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useSelectedLayoutSegments } from "next/navigation";
 import { LoginDrawerDialog } from "@/components/blocks/auth/login";
 import type { User } from "next-auth";
-import { ListPlus, Plus } from "lucide-react";
-import { NewPlaylistDialogDrawer } from "../playlist/new-playlist-dialog-drawer";
+// import { ListPlus, Plus } from "lucide-react";
+// import { NewPlaylistDialogDrawer } from "../playlist/new-playlist-dialog-drawer";
 import { UserPlaylist } from "@/db/schema";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import { Plus } from "lucide-react";
 type SidebarProps = {
   user: User | undefined;
   userPlaylists?: UserPlaylist[];
 };
-const Sidebar = ({ user, userPlaylists }: SidebarProps) => {
+const Sidebar = ({ userPlaylists }: SidebarProps) => {
   const segments = useSelectedLayoutSegments();
   const segment = segments.pop();
   const childSegment = segment || segments.pop();

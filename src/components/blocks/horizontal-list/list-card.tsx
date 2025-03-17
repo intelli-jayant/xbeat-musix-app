@@ -1,12 +1,12 @@
-import { buttonVariants } from "@/components/ui/button";
+// import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import ImageWithFallback from "@/components/image-with-fallback";
 import { cn, getHref, trimStringAddEllipsis } from "@/lib/utils";
 import { Quality, Type } from "@/types";
-import { Play } from "lucide-react";
-import Link from "next/link";
+// import { Play } from "lucide-react";
+// import Link from "next/link";
 import React from "react";
-import PlayButton from "@/components/play-button";
+// import PlayButton from "@/components/play-button";
 
 export type ListCardProps = {
   name: string;
@@ -29,10 +29,10 @@ const ListCard = ({
   aspect,
   // hidePlayButton,
   // isCurrentSeason,
-  url,
+  // url,
   type,
 }: ListCardProps) => {
-  const toUrl = getHref(url, type);
+  // const toUrl = getHref(url, type);
   return (
     <Card
       className={cn(

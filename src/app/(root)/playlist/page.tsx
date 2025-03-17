@@ -1,13 +1,13 @@
 // import { getFeaturedPlaylists } from "@/lib/music-api-instance";
-import { Lang } from "@/types";
+// import { Lang } from "@/types";
 import TopPlaylists from "./_components/top-playlists";
 import featuredPlaylist from "../../../static/featuredPlaylist.json"
 
-type TopPlaylistsPageProps = {
-  searchParams: Promise<{ page?: number; lang?: Lang }>;
-};
+// type TopPlaylistsPageProps = {
+//   searchParams: Promise<{ page?: number; lang?: Lang }>;
+// };
 
-export default async function TopPlaylistsPage(props: TopPlaylistsPageProps) {
+export default async function TopPlaylistsPage() {
   // const searchParams = await props.searchParams;
   // const { lang, page = 1 } = searchParams;
   // const featruedPlaylists = await getFeaturedPlaylists(page, 50, lang);

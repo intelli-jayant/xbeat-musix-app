@@ -1,12 +1,12 @@
 import ListCard from "@/components/blocks/horizontal-list/list-card";
 // import { getTopArtists } from "@/lib/music-api-instance";
-import { Lang } from "@/types";
+// import { Lang } from "@/types";
 import topArtist from "../../../static/topArtist.json";
 
-type TopArtistsPageProps = {
-  searchParams: Promise<{ page?: number; lang?: Lang }>;
-};
-export default async function TopArtistsPage(props: TopArtistsPageProps) {
+// type TopArtistsPageProps = {
+//   searchParams: Promise<{ page?: number; lang?: Lang }>;
+// };
+export default async function TopArtistsPage() {
   // const searchParams = await props.searchParams;
   // const { page, lang } = searchParams;
   // const topArtists = await getTopArtists(page, 50, lang);

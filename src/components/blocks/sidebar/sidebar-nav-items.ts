@@ -1,4 +1,4 @@
-import { Disc3, Heart, Library, ListMusic, Mic2 } from "lucide-react";
+import { Disc3, Library, ListMusic, Mic2 } from "lucide-react";
 
 import type { LucideIcon } from "lucide-react";
 
