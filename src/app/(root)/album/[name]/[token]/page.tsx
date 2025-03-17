@@ -8,7 +8,6 @@ import SongList from "@/components/blocks/song-list/song-list";
 //   getTrending,
 // } from "@/lib/music-api-instance";
 import albumsData from "@/static/albums.json";
-import { Album } from "@/types";
 // type AlbumDetailsPageProps = {
 //   params: Promise<{ name: string; token: string }>;
 // };

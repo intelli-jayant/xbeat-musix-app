@@ -6,12 +6,12 @@ import { cn, formatDuration, getHref, getImageSource } from "@/lib/utils";
 import {
   Album,
   Artist,
-  Episode,
-  Label,
-  Mix,
+  // Episode,
+  // Label,
+  // Mix,
   Playlist,
-  ShowDetails,
-  Song,
+  // ShowDetails,
+  // Song,
 } from "@/types";
 import { Play } from "lucide-react";
 import Link from "next/link";
